@@ -51,8 +51,8 @@ Git/GitHub:  ░░░░░░░░░░░░  0%
 
 ## 📫 Contact Me
 
-* 📧 Email: *(Add your email)*
-* 💬 Discord: *(Add your Discord)*
+* 📧 Email: *(benfarag46728@gmail.com)*
+  
 
 ## ⭐ Support
 
