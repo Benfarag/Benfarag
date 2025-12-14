@@ -36,7 +36,7 @@ I'm learning and improving step by step every day. Here’s my current progress:
 
 ```
 HTML:        ██░░░░░░░░░░  25%
-CSS:         ░░░░░░░░░░░░  0%
+CSS:         █░░░░░░░░░░░  6%
 JavaScript:  █░░░░░░░░░░░  4%
 Responsive:  ░░░░░░░░░░░░  0%
 Git/GitHub:  ░░░░░░░░░░░░  0%
