@@ -1,18 +1,63 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I'm Mohamed Farag 👋
 
+<p align="center">
+  <img src="https://your-banner-image.png" width="600">
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benfarag46728@gmail.com) 
+## 🌍 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Benfarag &theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Benfarag &theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benfarag &theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a **Web Developer** at the beginning of my journey — currently learning and improving my skills in **HTML**, **CSS**, **JavaScript**, and building responsive, clean, and modern websites.
+
+I also have **basic experience with Godot Engine** (2D) and I'm able to develop my skills in it anytime, but right now my main focus is **web development**.
+
+## 🧰 Technologies & Tools
+
+### 🔰 Badges
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Benfarag&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benfarag&layout=compact&theme=tokyonight" />
+</p>
+
+## 🎯 My Learning (Hourly Progress)
+
+I'm learning and improving step by step every day. Here’s my current progress:
+
+```
+HTML:        ██░░░░░░░░░░  25%
+CSS:         ░░░░░░░░░░░░  0%
+JavaScript:  █░░░░░░░░░░░  4%
+Responsive:  ░░░░░░░░░░░░  0%
+Git/GitHub:  ░░░░░░░░░░░░  0%
+```
+
+## 📂 My Projects
+
+| Project  | Description             |
+| -------- | ----------------------- |
+| Project1 | Description of project1 |
+| Project2 | Description of project2 |
+
+## 📫 Contact Me
+
+* 📧 Email: *(benfarag46728@gmail.com)*
+  
+
+## ⭐ Support
+
+If you like my work, feel free to star my repos!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Benfarag &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *Learning step by step — building my future in web development.*
