@@ -46,7 +46,7 @@ Git/GitHub:  ░░░░░░░░░░░░  0%
 
 | Project  | Description             |
 | -------- | ----------------------- |
-| Project1 | Description of project1 |
+|  https://benfarag.netlify.app/| My personal website|
 | Project2 | Description of project2 |
 
 ## 📫 Contact Me
