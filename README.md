@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Farag 👋
 
 <p align="center">
-  <img src="https://pin.it/1xi8oT0l4" width="600">
+  <img src="https://pin.it/1LHA19Dbh" width="600">
 </p>
 
 ## 🌍 About Me
