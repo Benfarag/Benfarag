@@ -58,8 +58,6 @@
 ## 🔍 Deep Analysis
 
 ### 💡 Your Unique Combination is Rare!
-أنت بتجمع بين **3 عوالم مختلفة** — وده بيخليك نادر:
-
 | المجال | المهارات | الميزة |
 |--------|----------|--------|
 | 📱 Mobile Developer | Flutter + Dart | بتبني apps تشتغل على iOS و Android بكود واحد |
