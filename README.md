@@ -1,141 +1,137 @@
 <div align="center">
 
+<!-- STAR FIELD HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=BENFARAG&fontSize=70&color=0:0d0d2b,100:1a1a4e&fontColor=00cfff&stroke=00cfff&strokeWidth=2&animation=fadeIn&desc=Software%20Developer%20%7C%20Pixel%20Artist%20%7C%20Linux%20Explorer&descSize=16&descAlignY=75&descColor=8888cc"/>
+
+</div>
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ██████╗ ███████╗██╗   ██╗                            ║
-║        ██╔══██╗██╔════╝██║   ██║                            ║
-║        ██║  ██║█████╗  ██║   ██║                            ║
-║        ██║  ██║██╔══╝  ╚██╗ ██╔╝                            ║
-║        ██████╔╝███████╗ ╚████╔╝                             ║
-║        ╚═════╝ ╚══════╝  ╚═══╝                              ║
-║                                                              ║
-║          [ MOBILE · WEB · SYSTEMS · PIXEL ART ]             ║
-╚══════════════════════════════════════════════════════════════╝
+                         . · ˚  ✦    ·        .    ✦      ˚   .
+        ·        .   ✦           ˚        ·            .
+   ✦         ·          INITIATING PROFILE SEQUENCE...        ·    ✦
+        .        ˚    ·        .     ✦         ˚       ·
 ```
 
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFC8&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Pixel+Artist+with+Aseprite+%F0%9F%8E%A8;C+Programmer+%F0%9F%96%A5%EF%B8%8F;Linux+%2F+Fedora+Power+User+%F0%9F%90%A7;Building+cross-platform+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00CFFF&center=true&vCenter=true&width=580&lines=%F0%9F%9A%80+Flutter+Developer+aboard+the+code+station;%F0%9F%AA%90+Dart+—+precision+language+of+the+cosmos;%F0%9F%96%A5%EF%B8%8F+C+Programmer+—+close+to+the+machine+core;%F0%9F%8E%A8+Pixel+Artist+crafting+worlds+in+Aseprite;%F0%9F%90%A7+Linux+%2F+Fedora+—+native+to+open+space" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/LOCATION-LOW_EARTH_ORBIT-0d0d2b?style=for-the-badge&logo=googlemaps&logoColor=00cfff)
+![](https://img.shields.io/badge/STATUS-ONLINE_%F0%9F%9F%A2-0d0d2b?style=for-the-badge&logoColor=00cfff)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00cfff&style=for-the-badge&label=SIGNAL+RECEIVED)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛸 MISSION LOADOUT
+
+*Technologies carried aboard the ship*
+
+</div>
+
+<div align="center">
+
+| SYSTEM | MODULE | STATUS |
+|:------:|:------:|:------:|
+| 📱 Mobile Core | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | 🟢 ACTIVE |
+| 🌐 Web Interface | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | 🟢 ACTIVE |
+| ⚙️ Systems Core | ![C](https://img.shields.io/badge/C_Language-00599C?style=flat-square&logo=c&logoColor=white) | 🟡 TRAINING |
+| 🎨 Art Engine | ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white) | 🟢 ACTIVE |
+| 🔧 Navigation | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) | 🟢 ACTIVE |
+| 📡 Intel Feed | ![edX](https://img.shields.io/badge/edX-02262B?style=flat-square&logo=edx&logoColor=white) | 🔵 SCANNING |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 TELEMETRY DATA
+
+</div>
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00cfff&icon_color=00cfff&text_color=aaaadd&bg_color=0d0d2b"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00cfff&text_color=aaaadd&bg_color=0d0d2b"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=0d0d2b&ring=00cfff&fire=ff6b35&currStreakLabel=00cfff&sideLabels=aaaadd&dates=555588&stroke=00cfff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 CAPTAIN'S LOG — BENFARAG
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  STARDATE: 2025                                                 │
+│  MISSION:  Build. Learn. Ship.                                  │
+│                                                                 │
+│  > Flutter + Dart   — deploying apps across all platforms      │
+│  > C Language       — speaking to the machine at metal level   │
+│  > Aseprite         — drawing every pixel by hand              │
+│  > Linux / Fedora   — living in the terminal, not just using it │
+│  > Git              — every commit tells a story               │
+│                                                                 │
+│  CREW SIZE: 1  (solo dev. full stack. full art. full control.) │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ☄️ CLASSIFIED INTEL
+
+</div>
+
+> ```
+> ⚠️  SIGNAL INTERCEPTED  ⚠️
+>
+> Analyst Report on BENFARAG:
+>
+> Subject possesses a rare multi-domain stack —
+>   Mobile Dev  +  Systems Programmer  +  Pixel Artist
+>
+> This combination maps directly to:
+>   → Indie Game Developer (solo capable)
+>   → Cross-platform App Creator
+>   → Full creative + technical ownership
+>
+> Missing coordinate: Godot Engine
+> Once acquired → mission becomes COMPLETE.
+>
+> Threat Level to competitors: SEVERE 🔴
+> ```
+
+---
+
+<div align="center">
+
+## 🛰️ OPEN CHANNEL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=00cfff)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d0d2b?style=for-the-badge&logo=github&logoColor=00cfff)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-Transmit-0d0d2b?style=for-the-badge&logo=gmail&logoColor=00cfff)](mailto:your@email.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FFC8&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ TECH ARSENAL ◈
-
-</div>
-
-### ▸ Mobile & Cross-Platform
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### ▸ Web
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ▸ Systems Programming
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### ▸ Creative Tools
-
-![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white)
-
-### ▸ DevOps & Environment
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-### ▸ Learning
-
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edx&logoColor=white)
-
----
-
-## ◈ SKILL MATRIX ◈
-
-```
-DOMAIN               TECHNOLOGY        LEVEL
-─────────────────────────────────────────────────────────────
-📱 Mobile            Flutter + Dart    ████████████████░░░░  80%
-🌐 Web Frontend      HTML + CSS        ██████████████░░░░░░  70%
-💻 Systems           C Language        ████████████░░░░░░░░  60%
-🎨 Pixel Art         Aseprite          ██████████░░░░░░░░░░  50%
-🔧 Version Control   Git               ████████████████░░░░  80%
-🐧 OS / Environ.     Linux / Fedora    ██████████████████░░  90%
-─────────────────────────────────────────────────────────────
-```
-
----
-
-## ◈ GITHUB STATS ◈
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00FFC8&icon_color=00FFC8&text_color=ffffff&ring_color=00FFC8" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00FFC8&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0f0a&ring=00FFC8&fire=FF6B35&currStreakLabel=00FFC8&sideLabels=00FFC8&dates=888888" />
-
-</div>
-
----
-
-## ◈ WHAT MAKES ME DIFFERENT ◈
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Most developers pick ONE lane.                           │
-│   I operate in THREE simultaneously:                       │
-│                                                             │
-│   [MOBILE]   Flutter  →  apps that run everywhere         │
-│   [SYSTEMS]  C        →  understanding HOW machines think  │
-│   [CREATIVE] Aseprite →  I design what I build            │
-│                                                             │
-│   > That combo? Rare. Very rare.                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ◈ CONNECT ◈
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Benfarag)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benfarag)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mf4902824@gmail.com.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║   "Code is craft. Design is intention.          ║
-║    Systems thinking is power."                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-**⭐ Drop a star if something inspires you ⭐**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:1a1a4e,100:0d0d2b&fontColor=00cfff&section=footer&text=⭐%20Star%20a%20repo%20—%20fuel%20the%20mission%20⭐&fontSize=18&animation=fadeIn&fontAlignY=55"/>
 
 </div>
