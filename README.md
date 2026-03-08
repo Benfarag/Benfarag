@@ -1,126 +1,127 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-signal.vercel.app/api/capsule?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&animation=fadeIn" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗ ███████╗██╗   ██╗                            ║
+║        ██╔══██╗██╔════╝██║   ██║                            ║
+║        ██║  ██║█████╗  ██║   ██║                            ║
+║        ██║  ██║██╔══╝  ╚██╗ ██╔╝                            ║
+║        ██████╔╝███████╗ ╚████╔╝                             ║
+║        ╚═════╝ ╚══════╝  ╚═══╝                              ║
+║                                                              ║
+║          [ MOBILE · WEB · SYSTEMS · PIXEL ART ]             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99;Frontend+%26+Mobile+Enthusiast+%F0%9F%9A%80;C+Programmer+%F0%9F%96%A5%EF%B8%8F;Linux+Power+User+%F0%9F%90%A7;Always+learning+new+things...+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFC8&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Pixel+Artist+with+Aseprite+%F0%9F%8E%A8;C+Programmer+%F0%9F%96%A5%EF%B8%8F;Linux+%2F+Fedora+Power+User+%F0%9F%90%A7;Building+cross-platform+experiences" alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FFC8&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## ◈ TECH ARSENAL ◈
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### ▸ Mobile & Cross-Platform
 
-### 🎨 Design & Art
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ▸ Web
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ▸ Systems Programming
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### ▸ Creative Tools
+
+![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white)
+
+### ▸ DevOps & Environment
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### 📚 Learning Platforms
-![edX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white)
+### ▸ Learning
+
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 
 ---
 
-## 📊 Language & Skill Analysis
+## ◈ SKILL MATRIX ◈
 
 ```
-🧩 Skill Categories Breakdown
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📱 Mobile / Cross-Platform   ████████████████████░░   Flutter + Dart   ~40%
-🌐 Web Technologies          ████████████░░░░░░░░░░   HTML + CSS       ~25%
-💻 System / Low-Level        ████████░░░░░░░░░░░░░░   C Language       ~15%
-🎨 Creative / Design         ██████░░░░░░░░░░░░░░░░   Aseprite         ~10%
-🔧 DevOps / Tools            ████░░░░░░░░░░░░░░░░░░   Git + Linux      ~10%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🔍 Deep Analysis
-
-### 💡 Your Unique Combination is Rare!
-| المجال | المهارات | الميزة |
-|--------|----------|--------|
-| 📱 Mobile Developer | Flutter + Dart | بتبني apps تشتغل على iOS و Android بكود واحد |
-| 🌐 Web Developer | HTML + CSS | قادر تبني مواقع من الصفر |
-| 💻 System Programmer | C | فاهم ازاي الكمبيوتر بيشتغل من الجوه |
-| 🎨 Pixel Artist | Aseprite | بتعمل الـ UI و الـ Art بنفسك — موهبة نادرة! |
-| 🐧 Linux Power User | Fedora + Linux | مش بس بتستخدم لينكس، انت بتعيش فيه |
-
----
-
-## 🚀 الـ Roadmap المقترح ليك
-
-```
-       الحاضر                    المستقبل القريب               المستقبل البعيد
-          │                             │                              │
-    ┌─────▼─────┐               ┌───────▼───────┐            ┌────────▼────────┐
-    │  Flutter  │──────────────▶│  Firebase +   │───────────▶│  Full Indie     │
-    │   + Dart  │               │   Supabase    │            │  Game / App Dev │
-    └───────────┘               └───────────────┘            └─────────────────┘
-          │                             │
-    ┌─────▼─────┐               ┌───────▼───────┐
-    │ C Language│──────────────▶│  C++ / Embedded│
-    │           │               │   Systems      │
-    └───────────┘               └───────────────┘
-          │                             │
-    ┌─────▼─────┐               ┌───────▼───────┐
-    │ Aseprite  │──────────────▶│  Game Dev with │
-    │ Pixel Art │               │  Godot Engine  │
-    └───────────┘               └───────────────┘
+DOMAIN               TECHNOLOGY        LEVEL
+─────────────────────────────────────────────────────────────
+📱 Mobile            Flutter + Dart    ████████████████░░░░  80%
+🌐 Web Frontend      HTML + CSS        ██████████████░░░░░░  70%
+💻 Systems           C Language        ████████████░░░░░░░░  60%
+🎨 Pixel Art         Aseprite          ██████████░░░░░░░░░░  50%
+🔧 Version Control   Git               ████████████████░░░░  80%
+🐧 OS / Environ.     Linux / Fedora    ██████████████████░░  90%
+─────────────────────────────────────────────────────────────
 ```
 
 ---
 
-
----
-
-## 🌱 Currently Learning
-
-![edX](https://img.shields.io/badge/Currently_Studying_on-edX-02262B?style=for-the-badge&logo=edx&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## ◈ GITHUB STATS ◈
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00FFC8&icon_color=00FFC8&text_color=ffffff&ring_color=00FFC8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00FFC8&text_color=ffffff" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0f0a&ring=00FFC8&fire=FF6B35&currStreakLabel=00FFC8&sideLabels=00FFC8&dates=888888" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## ◈ WHAT MAKES ME DIFFERENT ◈
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Most developers pick ONE lane.                           │
+│   I operate in THREE simultaneously:                       │
+│                                                             │
+│   [MOBILE]   Flutter  →  apps that run everywhere         │
+│   [SYSTEMS]  C        →  understanding HOW machines think  │
+│   [CREATIVE] Aseprite →  I design what I build            │
+│                                                             │
+│   > That combo? Rare. Very rare.                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ◈ CONNECT ◈
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Benfarag)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benfarag)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mf4902824@gmail.com.com)
 
 </div>
 
@@ -128,11 +129,13 @@
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-signal.vercel.app/api/capsule?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+```
+╔══════════════════════════════════════════════════╗
+║   "Code is craft. Design is intention.          ║
+║    Systems thinking is power."                  ║
+╚══════════════════════════════════════════════════╝
+```
 
-**⭐ اعمل Star للـ repos اللى بتعجبك — ده بيساعدني أكمل! ⭐**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D4FF&style=for-the-badge)
+**⭐ Drop a star if something inspires you ⭐**
 
 </div>
