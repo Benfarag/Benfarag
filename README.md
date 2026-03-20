@@ -32,9 +32,9 @@
 ### 📊 إحصائيات الحساب واللغات (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benfarag &layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benfarag&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165" />
 </p>
 
 ---
